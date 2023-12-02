@@ -1,2 +1,3 @@
 # Write-yourself-a-Scheme
-writing a fully-functional Scheme interpreter that implements a decent subset of R5RS Scheme
+
+Based on the Wiki-book [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
